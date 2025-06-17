@@ -13,7 +13,7 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
-		"@tanstack/router-plugin": "1.121.21",
+		"@tanstack/router-plugin": "1.121.22",
 		"@types/node": "22.15.32",
 		"@types/react": "18.3.23",
 		"@types/react-dom": "18.3.7",
