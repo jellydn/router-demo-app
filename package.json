@@ -12,7 +12,7 @@
 		"start": "vite"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "1.9.4",
+		"@biomejs/biome": "2.3.10",
 		"@tanstack/router-plugin": "1.140.5",
 		"@types/node": "22.19.2",
 		"@types/react": "18.3.27",
